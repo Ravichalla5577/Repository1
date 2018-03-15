@@ -1,0 +1,16 @@
+Github:
+ravi.challa89@gmail.com
+Ravichalla5577
+Nellore@2345
+
+Clone with SSH : git@github.com:Ravichalla5577/Hello-World.git
+Repository name: Hello-World
+Desc: Sample reposiroty03152018
+(recommend to click ok)Initialize this repository with a README
+
+
+
+
+git@github.com:Ravichalla5577/Repository1.git
+Repository1
+
